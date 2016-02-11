@@ -28,7 +28,7 @@ force-https: True
 # HTML Head #
 #############
 
-lang: "en"
+lang: "es"
 author: "Jose Rivera"
 title: "{ Jose }"
 description: "Mainly my personal website."
@@ -42,7 +42,7 @@ favicon: "/img/favicon.ico"
 
 black-favicon: "/img/black-lab-glass.ico"
 
-background-img: "../img/intro-bg.jpg"
+background-img: "../img/background.jpg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -53,13 +53,14 @@ shuffle: True # Shuffle the lines.
 loop: True
 loop-count: False # Set False for infinite loop, or set any number for finite loop.
 type-speed: 10
-start-delay: 200
+start-delay: 100
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "En el centro de Managua, con confort, la economia y el cariño..."
+  - text: "Uhh"
+  - text: "Como si estuvieras en casa!!!"
 
-me-img: "/img/jetpacktocat.png"
+me-img: "/img/logo.jpg"
 
 ################
 # Web app mode #
